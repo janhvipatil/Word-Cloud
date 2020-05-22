@@ -1,6 +1,5 @@
 # word_cloud
 
-![wordcloud](wordcloud.png)
 A word cloud is an image made of words that together resemble a cloudy shape.
 The size of a word shows how important it is e.g. how often it appears in a text — its frequency.
 
